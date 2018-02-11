@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006399145874",
+    "firebase_url": "https://gcmnetworkmanager-72d6b.firebaseio.com",
+    "project_id": "gcmnetworkmanager-72d6b",
+    "storage_bucket": "gcmnetworkmanager-72d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006399145874:android:74346d08c87977a3",
+        "android_client_info": {
+          "package_name": "ericserafim.br.com.gcmnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006399145874-oceu5dlf6glt4o9kn5h69ghn0p49anaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ericserafim.br.com.gcmnetwork",
+            "certificate_hash": "50025967CA941BD4947357743EC20308DD799A0D"
+          }
+        },
+        {
+          "client_id": "1006399145874-1fhu09qfuse3329446napsohsee0bn66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRP6OwNCSFTMcwIG4YUTkh4MewyAVMVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006399145874-1fhu09qfuse3329446napsohsee0bn66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
